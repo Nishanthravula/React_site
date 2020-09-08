@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name": "Nishanth_Ravula",
+    "occupation": "Freelancer && Founder @ ANTICE",
+    "description": "Full Stack Developer by Day, Founder && Freelancer by Night. ",
+    "image": "nishanth.jpeg",
+    "bio": "My name is Nishanth, I'm a Full Stack Developer. Currently I'm working a Freelancer",
+    "contactmessage": "Get in touch with me for any techinical development.",
+    "email": "nishanth.ravula@outlook.com",
+    "phone": "+91 7730038913",
+    "address": {
+      "city": "Hyderabad",
+      "state": "India",
+      "zip": "500092"
+    },
+     "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ravulanishanthrao/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ravula-nishanth-0716/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ravulanishanth/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Nishanthravula",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Sri Indu College of engineering and technology",
+        "degree": "Computer Science and Engineering",
+        "graduation": " 2021",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Antice",
+        "title": "Founder && Freelancer",
+        "years": "September 2020 - Present",
+        "description": "Technical stuff."
+      },
+      {
+        "company": "PrimeFort",
+        "title": "Frontend web developer Intern",
+        "years": "Oct 2019 - Present",
+        "description": "Building website."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Django",
+        "level": "70%"
+      },
+      {
+        "name": "Data Science",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
